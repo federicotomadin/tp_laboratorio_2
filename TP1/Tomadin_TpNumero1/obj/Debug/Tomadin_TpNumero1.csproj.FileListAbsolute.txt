@@ -1,0 +1,30 @@
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.exe.config
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.FrmCalculadora.resources
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.exe
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.pdb
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.exe
+c:\users\sam\documents\visual studio 2013\Projects\Tomadin_TpNumero1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.pdb
+E:\TP1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.exe.config
+E:\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.exe
+E:\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.pdb
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.exe.config
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.exe
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.pdb
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.exe
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.pdb
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.FrmCalculadora.resources
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.Properties.Resources.resources
+C:\Users\sam\Documents\GitHub\TP_Laboratorio_2\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.csproj.GenerateResource.Cache
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.exe.config
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.exe
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.pdb
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.exe
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\bin\Debug\Tomadin_TpNumero1.pdb
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.csprojResolveAssemblyReference.cache
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.FrmCalculadora.resources
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.Properties.Resources.resources
+C:\Users\sam\Downloads\PROGRAMACION II\RecuperatriosTP-master\TP1\Tomadin_TpNumero1\obj\Debug\Tomadin_TpNumero1.csproj.GenerateResource.Cache
