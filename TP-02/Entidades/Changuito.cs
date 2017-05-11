@@ -93,7 +93,13 @@ namespace Entidades_2017
                     return c;
             }
 
-            c._productos.Add(p);
+            if (c._productos.Count < c._espacioDisponible)
+            {
+
+                c._productos.Add(p);
+
+            }
+
             return c;
         }
         /// <summary>
