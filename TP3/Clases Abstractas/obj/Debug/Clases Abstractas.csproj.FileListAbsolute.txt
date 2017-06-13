@@ -1,0 +1,14 @@
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\Clases Abstractas\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\Clases Abstractas\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\sam\Desktop\Proyecto\Recuperatorio_Primer_Parcial\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

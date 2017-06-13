@@ -1,0 +1,20 @@
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Tests Unitarios.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Tests Unitarios.pdb
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Clases Abstractas.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Clases Instanciables.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Excepciones.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Archivos.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Clases Abstractas.pdb
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Clases Instanciables.pdb
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sam\Desktop\TP3\Tests Unitarios\bin\Debug\Archivos.pdb
+C:\Users\sam\Desktop\TP3\Tests Unitarios\obj\Debug\Tests Unitarios.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\TP3\Tests Unitarios\obj\Debug\Tests Unitarios.dll
+C:\Users\sam\Desktop\TP3\Tests Unitarios\obj\Debug\Tests Unitarios.pdb
