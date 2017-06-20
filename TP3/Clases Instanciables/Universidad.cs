@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 using Archivos;
 using EntidadesAbstractas;
 using System.IO;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace Clases_Instanciables
 {
    [Serializable]
-
+  
 
     public class Universidad
     {
@@ -36,22 +38,22 @@ namespace Clases_Instanciables
         public List<Alumno> Alumno
         {
 
-            get;
-            set;
+            get { return this._alumnos; }
+            set { this._alumnos = value; }
 
         }
 
         public List<Jornada> Jornada
         {
 
-            get;
-            set;
+            get { return this._jornada; }
+            set { this._jornada = value; }
         }
 
         public List<Profesor> Profesor
         {
-            get;
-            set;
+            get { return this._profesores; }
+            set { this._profesores = value; }
         }
 
 
@@ -285,9 +287,10 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static bool Guardar(Universidad gim)
         {
+
             bool flag = false;
 
-            string ruta = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\Universidad.xml";
+            string ruta = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "Universidad.xml";
             Archivos.Xml<Universidad> xml = new Archivos.Xml<Universidad>();
             try
             {

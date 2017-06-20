@@ -5,10 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using Excepciones;
+using System.Xml;
+using System.Xml.Serialization;
+
 
 
 namespace EntidadesAbstractas
 {
+
+    [Serializable]
+    [XmlInclude(typeof(Universitario))]
+
    public abstract class Persona
     {
         #region Enumerado

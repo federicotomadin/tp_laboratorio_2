@@ -13,3 +13,8 @@ C:\Users\sam\Desktop\TP3\Archivos\bin\Debug\Archivos.pdb
 C:\Users\sam\Desktop\TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
 C:\Users\sam\Desktop\TP3\Archivos\obj\Debug\Archivos.dll
 C:\Users\sam\Desktop\TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\sam\Desktop\tp_laboratorio_2\TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\sam\Desktop\tp_laboratorio_2\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\sam\Desktop\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\sam\Desktop\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.pdb

@@ -27,10 +27,10 @@ namespace Archivos
            bool flag = false;
            try
            {
-                  using (FileStream fs=new FileStream(archivo,FileMode.Create))
+                  using (StreamWriter sw=new StreamWriter(archivo))
                   {
                    XmlSerializer serializar = new XmlSerializer(typeof(T));
-                   serializar.Serialize(fs, datos);
+                   serializar.Serialize(sw, datos);
                    flag = true;
                   }
                }

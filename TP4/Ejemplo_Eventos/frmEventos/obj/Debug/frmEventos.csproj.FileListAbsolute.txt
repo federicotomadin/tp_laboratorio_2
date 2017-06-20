@@ -1,0 +1,18 @@
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\Ejemplo_Eventos.frmEventos.resources
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.pdb
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.exe
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.pdb
+E:\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe.config
+E:\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.exe
+E:\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.pdb
+E:\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe
+E:\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.pdb
+E:\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csprojResolveAssemblyReference.cache
+E:\Ejemplo_Eventos\frmEventos\obj\Debug\Ejemplo_Eventos.frmEventos.resources
+E:\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.Properties.Resources.resources
+E:\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csproj.GenerateResource.Cache

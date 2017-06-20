@@ -5,10 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using Archivos;
 using Excepciones;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace Clases_Instanciables
 {
     [Serializable]
+   
     public class Jornada
     {
 
