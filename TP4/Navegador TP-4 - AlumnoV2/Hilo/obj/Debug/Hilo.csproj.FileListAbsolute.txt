@@ -13,3 +13,8 @@ C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.pdb
 C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
 C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.dll
 C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.pdb
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.dll
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.pdb
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.dll
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.pdb

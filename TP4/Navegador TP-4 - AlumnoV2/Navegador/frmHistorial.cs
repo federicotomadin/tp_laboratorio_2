@@ -22,8 +22,22 @@ namespace Navegador
         private void frmHistorial_Load(object sender, EventArgs e)
         {
             Archivos.Texto archivos = new Archivos.Texto(frmHistorial.ARCHIVO_HISTORIAL);
-
+            List<String> datos;
+            try
+            {
+                archivos.leer(out datos);
+                this.lstHistorial.DataSource = datos;
+            }
+            catch (Exception exc)
+            {
+                MessageBox.Show(exc.Message);
+            }
             
+        }
+
+        private void lstHistorial_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

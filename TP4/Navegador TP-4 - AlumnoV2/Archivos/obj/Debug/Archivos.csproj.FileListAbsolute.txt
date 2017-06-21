@@ -15,3 +15,8 @@ C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.d
 C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.pdb
 C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.dll
 C:\Users\sam\Desktop\TP4\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.pdb
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.dll
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.pdb
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.dll
+C:\Users\fedetomadin\Desktop\tp_laboratorio_2\TP4\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.pdb

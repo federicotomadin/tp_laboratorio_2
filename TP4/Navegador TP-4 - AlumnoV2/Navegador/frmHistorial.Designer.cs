@@ -39,6 +39,7 @@
             this.lstHistorial.Name = "lstHistorial";
             this.lstHistorial.Size = new System.Drawing.Size(426, 395);
             this.lstHistorial.TabIndex = 0;
+            this.lstHistorial.SelectedIndexChanged += new System.EventHandler(this.lstHistorial_SelectedIndexChanged);
             // 
             // frmHistorial
             // 

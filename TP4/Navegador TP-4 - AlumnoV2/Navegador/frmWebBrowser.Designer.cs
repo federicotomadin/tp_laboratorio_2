@@ -108,14 +108,15 @@
             this.historialToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mostrarTodoElHistorialToolStripMenuItem});
             this.historialToolStripMenuItem.Name = "historialToolStripMenuItem";
-            this.historialToolStripMenuItem.Size = new System.Drawing.Size(63, 20);
+            this.historialToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
             this.historialToolStripMenuItem.Text = "Historial";
             // 
             // mostrarTodoElHistorialToolStripMenuItem
             // 
             this.mostrarTodoElHistorialToolStripMenuItem.Name = "mostrarTodoElHistorialToolStripMenuItem";
-            this.mostrarTodoElHistorialToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
+            this.mostrarTodoElHistorialToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.mostrarTodoElHistorialToolStripMenuItem.Text = "Mostrar todo el Historial";
+            this.mostrarTodoElHistorialToolStripMenuItem.Click += new System.EventHandler(this.mostrarTodoElHistorialToolStripMenuItem_Click);
             // 
             // frmWebBrowser
             // 

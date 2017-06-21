@@ -138,5 +138,11 @@ namespace Navegador
 
         }
 
+        private void mostrarTodoElHistorialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmHistorial formHistorial = new frmHistorial();
+            formHistorial.ShowDialog();
+        }
+
     }
 }
